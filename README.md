@@ -35,7 +35,7 @@ This project is a .NET-based API developed using a 3-tier architecture that cons
 
    ```json
    {
-     "YouTubeSettings": {
+     "YouTube": {
        "ApiKey": "YOUR_YOUTUBE_API_KEY",
        "ApplicationName": "YOUR_YOUTUBE_NAME_KEY"
      }
