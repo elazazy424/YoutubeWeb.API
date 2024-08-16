@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeWeb.API", "YoutubeWeb.API\YoutubeWeb.API.csproj", "{963DC0CC-EF59-47B9-B80B-BA79704B9724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeWeb.DAL", "YoutubeWeb.DAL\YoutubeWeb.DAL.csproj", "{B8E5373A-FD1A-499D-8AD6-FEC71BEF1381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeWeb.BLL", "YoutubeWeb.BLL\YoutubeWeb.BLL.csproj", "{FF600F16-99EB-4FB3-BE28-1FF2BF29CFD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{963DC0CC-EF59-47B9-B80B-BA79704B9724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963DC0CC-EF59-47B9-B80B-BA79704B9724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963DC0CC-EF59-47B9-B80B-BA79704B9724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963DC0CC-EF59-47B9-B80B-BA79704B9724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E5373A-FD1A-499D-8AD6-FEC71BEF1381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E5373A-FD1A-499D-8AD6-FEC71BEF1381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E5373A-FD1A-499D-8AD6-FEC71BEF1381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E5373A-FD1A-499D-8AD6-FEC71BEF1381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF600F16-99EB-4FB3-BE28-1FF2BF29CFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF600F16-99EB-4FB3-BE28-1FF2BF29CFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF600F16-99EB-4FB3-BE28-1FF2BF29CFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF600F16-99EB-4FB3-BE28-1FF2BF29CFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0368967-D8D2-4E18-A0E4-24483600D49F}
+	EndGlobalSection
+EndGlobal
